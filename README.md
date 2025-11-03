@@ -39,7 +39,7 @@
 
 - 感谢《The Visual Computer》期刊提供的指导。
 - 感谢相关裂纹数据集的创建者和维护者。
-- 
+  
 
 > **Important Note**: This repository is directly associated with our academic paper **"Dual-Branch CNN-Transformer Hybrid for Enhanced Crack Segmentation"**, which has been submitted to **The Visual Computer**. If you use this code or data in your research, please cite our paper.
 
